@@ -15,3 +15,5 @@
 <img height="30" src="https://icon-library.com/images/ruby-on-rails-icon/ruby-on-rails-icon-29.jpg">
 <img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732212.png">
 <img height="30" src="https://toppng.com/uploads/preview/html-css-js-icons-11563328364gmstz4ubs9.png">
+<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png">
+<img height="30" src="https://www.svgrepo.com/show/303388/java-4-logo.svg">

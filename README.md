@@ -1,11 +1,15 @@
 # Hi there 👋, I am Abdul Moiz
 
-[![Linkedin Badge](https://img.shields.io/badge/-abdulmoiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulmoiz321/)](https://www.linkedin.com/in/abdulmoiz321/)
-[![Gmail Badge](https://img.shields.io/badge/-abdulmoiz23199@yahoo.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdulmoiz23199@yahoo.com)](mailto:abdulmoiz23199@yahoo.com)
+# 💫About Me :
+### I'm a software developer
 
 - 🔭 **I’m currently working as Angular Developer .**
 - 🌱 **I’m currently learning Ruby on Rails.**
+- 👀 **I’m interested in Software development and DevOps**
 
+### Reach out to me:
+[<img align="left" alt="Abdul Moiz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abdulmoiz321/)
+[![Email Badge](https://img.shields.io/badge/-abdulmoiz23199@yahoo.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdulmoiz23199@yahoo.com)](mailto:abdulmoiz23199@yahoo.com)
 
 **Languages and Tools:**  
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">

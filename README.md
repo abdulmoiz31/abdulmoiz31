@@ -3,7 +3,7 @@
 # 💫About Me :
 ### I'm a software developer
 
-- 🔭 **I’m currently working as Angular Developer .**
+- 🔭 **I’m currently working as Full Stack Developer .**
 - 🌱 **I’m currently learning Ruby on Rails.**
 - 👀 **I’m interested in Software development and DevOps**
 

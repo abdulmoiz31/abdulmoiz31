@@ -9,7 +9,7 @@
 
 ### Reach out to me:
 [<img align="left" alt="Abdul Moiz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abdulmoiz321/)
-[![Email Badge](https://img.shields.io/badge/-abdulmoiz23199@yahoo.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdulmoiz23199@yahoo.com)](mailto:abdulmoiz23199@yahoo.com)
+[![Email Badge](https://img.shields.io/badge/-a.moiz28864@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a.moiz28864@gmail.com)](mailto:abdulmoiz23199@yahoo.com)
 
 **Languages and Tools:**  
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
